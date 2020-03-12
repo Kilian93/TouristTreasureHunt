@@ -36,6 +36,10 @@ ion-content ion-toolbar {
 
 
 .top{
+
+  background: url(/src/assets/gc2.png) no-repeat center center fixed;
+  background-size: 100%;
+
   left: 0;
   width: 100%;
   height: 50%;
@@ -46,6 +50,7 @@ ion-content ion-toolbar {
   animation-fill-mode: forwards;
   // animation-delay: 1s;
   animation-play-state: paused;
+
 }
 
 .bottom{
